@@ -1,1 +1,2 @@
-# DendrotheleGenomics
+# An Introduction to Genomics
+This repository is intended to serve as a robust introduction to the theory and praxis required for genomic analysis. In recent years, increased availability of publicly available genomes has coinsided with a corresponding increase in the prevalence and number of genomic studies which do not unilaterally reflect what "best practices" of genomic analysis. The softwares and algorithms required for genomic analysis are not magic spells that automatically produce the best results but must be optimized for a given dataset by modulating program parameters. 
